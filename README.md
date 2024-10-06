@@ -8,6 +8,7 @@
 - JavScript
 ### Database
 - SQL
+- MS access
 ### Tools
 - Adobe illustrator
 - Adobe photoshop
